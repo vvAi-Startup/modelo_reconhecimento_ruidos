@@ -1,0 +1,15 @@
+{
+    "sr": 16000,
+    "duration": 2,
+    "n_mels": 128,
+    "n_fft": 1024,
+    "hop_length": 128,
+    "fmin": 80,
+    "fmax": 8000,
+    "batch_size": 32,
+    "epochs": 5,
+    "validation_split": 0.2,
+    "test_split": 0.1,
+    "model_path": "modelos/",
+    "log_path": "logs/"
+}
